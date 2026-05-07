@@ -4,6 +4,10 @@
 
 This project implements a Support Vector Machine (SVM) model to classify images of cats and dogs using HOG (Histogram of Oriented Gradients) feature extraction.
 
+## 📌 Dataset
+Microsoft Cats and Dogs Dataset:  
+https://www.microsoft.com/en-us/download/details.aspx?id=54765
+
 ## 📌 Project Overview
 - Image preprocessing using OpenCV
 - Feature extraction using HOG
